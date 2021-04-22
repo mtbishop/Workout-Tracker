@@ -6,24 +6,17 @@
 
   A way to keep track of workouts and be able to view the overall data for each one. 
 
-  ## Contents
-
-  [Description](#description)
-
-
-
-  [Licenses](#licenses)
-
-  [Contact](#contact)
-
 
   ### Live link:
   https://workout-controller.herokuapp.com/
 
 
-\
-  IMAGES
-/
+  ### Images:
+![demo1](https://github.com/mtbishop/Workout-Tracker/blob/main/public/img/demo-img1.PNG)
+![demo2](https://github.com/mtbishop/Workout-Tracker/blob/main/public/img/demo-img2.PNG)
+![demo3](https://github.com/mtbishop/Workout-Tracker/blob/main/public/img/demo-img3.png)
+
+
 
   ### Licenses
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
